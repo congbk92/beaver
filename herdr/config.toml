@@ -2,6 +2,8 @@ onboarding = false
 [ui]
 agent_panel_sort = "spaces"
 
+status_indicators = "symbols"
+show_agent_labels_on_pane_borders = false
 [keys]
 detach = "prefix+d"
 
@@ -11,3 +13,7 @@ key = "prefix+f"
 type = "popup"
 command = 'd=$(fd --type d --max-depth 6 . ~ | fzf) && herdr workspace create --cwd "$d" --focus'
 description = "new workspace in picked dir"
+
+[theme]
+name = "nord"
+auto_switch = false
