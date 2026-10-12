@@ -26,7 +26,8 @@
     "gcc@latest",
     "gh@latest",
     "jq@latest",
-    "herdr@latest"
+    "herdr@latest",
+    "glab@latest"
   ],
   "shell": {
     "scripts": {

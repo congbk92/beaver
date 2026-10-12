@@ -386,6 +386,44 @@
       "last_modified": "2026-09-17T08:15:29Z",
       "resolved": "github:NixOS/nixpkgs/a32edd7654519351e48e80372a928df336394670?lastModified=1789632929&narHash=sha256-RjR8AyvGlWuw16XRj7C1YDEw4E27ciuyPeB2nDMzgTU%3D"
     },
+    "glab@latest": {
+      "last_modified": "2026-10-08T19:21:32Z",
+      "resolved": "github:NixOS/nixpkgs/8edc0c72e3a38faf5434e40d1f19431125fe4b30#glab",
+      "source": "devbox-search",
+      "version": "1.114.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9kz769asphw0y16sdhml7x5ngq4l7a5h-glab-1.114.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/9kz769asphw0y16sdhml7x5ngq4l7a5h-glab-1.114.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/yg64g66sjq2y3zj5gpaffkfz3qx695yf-glab-1.114.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/yg64g66sjq2y3zj5gpaffkfz3qx695yf-glab-1.114.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6mhvmd75js4bikky6h7pcars4cr7d12s-glab-1.114.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6mhvmd75js4bikky6h7pcars4cr7d12s-glab-1.114.0"
+        }
+      }
+    },
     "gnumake@latest": {
       "last_modified": "2026-08-27T07:16:00Z",
       "resolved": "github:NixOS/nixpkgs/c27cdad491a991b11ed731760aa2ef8db0cb0410#gnumake",
@@ -781,7 +819,7 @@
     },
     "nodejs@latest": {
       "last_modified": "2026-08-27T23:47:58Z",
-      "plugin_version": "0.0.4",
+      "plugin_version": "0.0.5",
       "resolved": "github:NixOS/nixpkgs/7d1a7c21a4c00ea653fc7ed5c083d261340f185f#nodejs_26",
       "source": "devbox-search",
       "version": "26.8.1",
