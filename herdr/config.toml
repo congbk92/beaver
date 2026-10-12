@@ -17,3 +17,6 @@ description = "new workspace in picked dir"
 [theme]
 name = "nord"
 auto_switch = false
+
+[ui.toast]
+delivery = "herdr"
