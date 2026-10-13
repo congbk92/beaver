@@ -28,7 +28,8 @@
     "jq@latest",
     "herdr@latest",
     "glab@latest",
-    "go-task@latest"
+    "go-task@latest",
+    "temporal@latest"
   ],
   "shell": {
     "scripts": {

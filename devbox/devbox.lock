@@ -1092,6 +1092,44 @@
         }
       }
     },
+    "temporal@latest": {
+      "last_modified": "2026-10-08T19:21:32Z",
+      "resolved": "github:NixOS/nixpkgs/8edc0c72e3a38faf5434e40d1f19431125fe4b30#temporal",
+      "source": "devbox-search",
+      "version": "1.31.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/knprzzmzdzvqn52pv0ycnvflygjga4gy-temporal-1.31.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/knprzzmzdzvqn52pv0ycnvflygjga4gy-temporal-1.31.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/db5pp37m07bv7q1dama8j4vsa56rprks-temporal-1.31.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/db5pp37m07bv7q1dama8j4vsa56rprks-temporal-1.31.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6y08qilzcd9hfk518nxjykcm80dr2awb-temporal-1.31.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6y08qilzcd9hfk518nxjykcm80dr2awb-temporal-1.31.2"
+        }
+      }
+    },
     "tmux@latest": {
       "last_modified": "2026-06-29T11:10:55Z",
       "resolved": "github:NixOS/nixpkgs/9c4c05a947a91dc14625265fab505fb695e93218#tmux",
