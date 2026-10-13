@@ -1092,41 +1092,41 @@
         }
       }
     },
-    "temporal@latest": {
+    "temporal-cli@latest": {
       "last_modified": "2026-10-08T19:21:32Z",
-      "resolved": "github:NixOS/nixpkgs/8edc0c72e3a38faf5434e40d1f19431125fe4b30#temporal",
+      "resolved": "github:NixOS/nixpkgs/8edc0c72e3a38faf5434e40d1f19431125fe4b30#temporal-cli",
       "source": "devbox-search",
-      "version": "1.31.2",
+      "version": "1.8.3",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/knprzzmzdzvqn52pv0ycnvflygjga4gy-temporal-1.31.2",
+              "path": "/nix/store/w4jdlbw4vn0rawrlpds6l0x7b8p39i1s-temporal-cli-1.8.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/knprzzmzdzvqn52pv0ycnvflygjga4gy-temporal-1.31.2"
+          "store_path": "/nix/store/w4jdlbw4vn0rawrlpds6l0x7b8p39i1s-temporal-cli-1.8.3"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/db5pp37m07bv7q1dama8j4vsa56rprks-temporal-1.31.2",
+              "path": "/nix/store/c3d5826lfhbdiw35dycvrppxa94craq7-temporal-cli-1.8.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/db5pp37m07bv7q1dama8j4vsa56rprks-temporal-1.31.2"
+          "store_path": "/nix/store/c3d5826lfhbdiw35dycvrppxa94craq7-temporal-cli-1.8.3"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/6y08qilzcd9hfk518nxjykcm80dr2awb-temporal-1.31.2",
+              "path": "/nix/store/irk55sl3rg005ih4ygg97xixkizrc94x-temporal-cli-1.8.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/6y08qilzcd9hfk518nxjykcm80dr2awb-temporal-1.31.2"
+          "store_path": "/nix/store/irk55sl3rg005ih4ygg97xixkizrc94x-temporal-cli-1.8.3"
         }
       }
     },

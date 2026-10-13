@@ -29,7 +29,7 @@
     "herdr@latest",
     "glab@latest",
     "go-task@latest",
-    "temporal@latest"
+    "temporal-cli@latest"
   ],
   "shell": {
     "scripts": {
