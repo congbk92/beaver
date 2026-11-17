@@ -1,41 +1,41 @@
 {
   "lockfile_version": "1",
   "packages": {
-    "claude-code@latest": {
-      "last_modified": "2026-11-12T14:50:34Z",
-      "resolved": "github:NixOS/nixpkgs/2074cc672349f14240fb7ea90d509e0b643e9dd4#claude-code",
+    "claude-code@2.1.318": {
+      "last_modified": "2026-11-08T17:16:14Z",
+      "resolved": "github:NixOS/nixpkgs/f6bf1059f02576e0b913c7b49d5e4eb6dda9cc22#claude-code",
       "source": "devbox-search",
-      "version": "2.1.322",
+      "version": "2.1.318",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/pmg405cp6ykczkqvyv2spqm905zhkpg6-claude-code-2.1.322",
+              "path": "/nix/store/wr0iwlicadfcv8gmmsk812g6pz0c91zn-claude-code-2.1.318",
               "default": true
             }
           ],
-          "store_path": "/nix/store/pmg405cp6ykczkqvyv2spqm905zhkpg6-claude-code-2.1.322"
+          "store_path": "/nix/store/wr0iwlicadfcv8gmmsk812g6pz0c91zn-claude-code-2.1.318"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/6kljj784nl1y0x7qcbhc75wjr9vcha3f-claude-code-2.1.322",
+              "path": "/nix/store/br3g8shxhznyj4nj8drs2jvfxzravnx2-claude-code-2.1.318",
               "default": true
             }
           ],
-          "store_path": "/nix/store/6kljj784nl1y0x7qcbhc75wjr9vcha3f-claude-code-2.1.322"
+          "store_path": "/nix/store/br3g8shxhznyj4nj8drs2jvfxzravnx2-claude-code-2.1.318"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/1k0q3n9djm1dsbqbvbxfaqvnnskgbd4a-claude-code-2.1.322",
+              "path": "/nix/store/z4y9gj13fc2wmc8lfwzbhjcgbr3nrb9y-claude-code-2.1.318",
               "default": true
             }
           ],
-          "store_path": "/nix/store/1k0q3n9djm1dsbqbvbxfaqvnnskgbd4a-claude-code-2.1.322"
+          "store_path": "/nix/store/z4y9gj13fc2wmc8lfwzbhjcgbr3nrb9y-claude-code-2.1.318"
         }
       }
     },
@@ -909,7 +909,7 @@
     },
     "nodejs@26": {
       "last_modified": "2026-11-12T14:50:34Z",
-      "plugin_version": "0.0.5",
+      "plugin_version": "0.0.6",
       "resolved": "github:NixOS/nixpkgs/2074cc672349f14240fb7ea90d509e0b643e9dd4#nodejs_26",
       "source": "devbox-search",
       "version": "26.13.1",

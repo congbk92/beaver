@@ -15,7 +15,6 @@
     "fd@latest",
     "fzf@latest",
     "zstd@latest",
-    "claude-code@latest",
     "pnpm@latest",
     "nodejs@26",
     "uv@latest",
@@ -29,7 +28,8 @@
     "herdr@latest",
     "glab@latest",
     "go-task@latest",
-    "temporal-cli@latest"
+    "temporal-cli@latest",
+    "claude-code@2.1.318"
   ],
   "shell": {
     "scripts": {
